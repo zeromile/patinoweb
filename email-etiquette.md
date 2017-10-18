@@ -1,4 +1,4 @@
-# Email etiquite #
+# Email Etiquette #
 
 Read the article at this link...[5 Rules of Email Etiquette](https://www.huffingtonpost.com/her-campus/5-rules-of-email-etiquett_b_4860133.html)
 
