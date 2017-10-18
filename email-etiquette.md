@@ -2,11 +2,11 @@
 
 Read the article at this link...[5 Rules of Email Etiquette](https://www.huffingtonpost.com/her-campus/5-rules-of-email-etiquett_b_4860133.html)
 
-Read the terrible email below. Then rewrite it in your Week 10 Clock-in, applying the rules mentioned in the "5 Rules of Email Etiquette" article. Please note that this email is a forward from someone on the team TO one of the Valley brothers...Should we just forward an email or maybe rewrite it instead???
+Read the terrible email below. This is an email that you accidentally fowarded to one of the Valley brothers. If you could go back in time how would you rewrite it, applying the rules mentioned in the "5 Rules of Email Etiquette" article? Should you have just forwarded it or should you have created a new email?
 
 ```
 Subject: ???
-Forward from: someoneelseonmyteam
+From: you@patinoechool.com
 To: shiny@valleysubs.com
 
 yo baaarroooo, what ya know?!?!?
