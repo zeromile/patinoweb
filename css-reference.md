@@ -21,6 +21,6 @@ Use CSS to style your page
 - Here is a great article on styling forms...https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Styling_HTML_forms
 
 5. Div
-- A <div> is a "division" in a page. Use it to wrap a bunch of elements that you want to keep together. In a div you can set width and height and background color. 
+- A __div__ is a "division" in a page. Use it to wrap a bunch of elements that you want to keep together. In a div you can set width and height and background color. 
 - Here is an example of formatting you can use with your landing page: https://codepen.io/jasonleecooksey/pen/YrBZMo?editors=1100
   
