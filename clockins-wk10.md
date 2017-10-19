@@ -7,6 +7,10 @@
 3. Tag the card with your name color
 4. Screenshot and add to OneNote Week 10 clock-in*
 
+![alt text](https://s19.postimg.org/5l8catynn/landingpagecopyurl.gif "Copy and paste landing page url")
+
+
+
 *don't forget to also add the clock-in, day, and date
 
 ### Mood board students... ###
