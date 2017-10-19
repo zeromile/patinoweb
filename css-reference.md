@@ -6,7 +6,7 @@ Use CSS to style your page
 - __margin__ Controls how far apart html elements are from each
 - __padding__ Controls how far apart html elements are from their internal edges
 - This is often referred to as the "Box Model" 
-- [Box Model](www.w3schools.com/css/css_boxmodel.asp)
+- [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 
 2. Font
 - __font-family__ Sets the font (typeface) of an element...only fonts on the user's computer can be used though. So, just becuase it looks right on your computer does not mean it will look right on someone else's. This is why the w3schools recommends using only basic typefaces (we will learn a way to overcome this limitation)
