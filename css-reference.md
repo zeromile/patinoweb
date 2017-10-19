@@ -2,8 +2,6 @@
 ## Landing Page - CSS ##
 Use CSS to style your page
 
-[text](link)
-
 1. Margin and Padding 
 - __margin__ Controls how far apart html elements are from each
 - __padding__ Controls how far apart html elements are from their internal edges
