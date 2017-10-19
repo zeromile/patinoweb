@@ -17,6 +17,7 @@
 
 *don't forget to also add the clock-in, day, and date
 
+
 ## Wednesday ##
 ### Email Etiquette ###
 
@@ -43,3 +44,12 @@ get the Valley bros cell numba!! Can you email them and get it?
 Thanks my dude. My cat has rabies and is pooping worms err'where. 
 ```
 
+
+## Tuesday ##
+In Trello, make the comment “Working on this today”, on the task assigned to you, that you will be working on today - take a screenshot of your comment  and add it to the Week 10 Clock-in
+
+![alt text](https://s19.postimg.org/z7j9xn7ur/Screen_Recording_2017-10-17_at_12.20_AM.gif "How to make a comment in Trello")
+
+
+## Monday ##
+Log in to typing.com and complete ONLY the “Beginner Review 1” level - Take a screenshot when you finish and upload it to your “Week 10” OneNote page (under Clock-Ins)
