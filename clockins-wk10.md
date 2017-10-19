@@ -5,19 +5,16 @@
 1. One person from your team create a new list on your team's __Valley Brothers Project__ board called *"Landing Pages In-Progress"*
 2. Individually create a card with the link to your codepen page (copy and paste the URL)
 3. Tag the card with your name color
-4. Screenshot and add to OneNote Week 10 clock-in*
-
 ![alt text](https://s19.postimg.org/5l8catynn/landingpagecopyurl.gif "Copy and paste landing page url")
-
-
+4. Screenshot and add to OneNote Week 10 clock-in*
 
 *don't forget to also add the clock-in, day, and date
 
 ### Mood board students... ###
 1. One person from your team create a new list on your team's __Valley Brothers Project__ board called *"Mood Board Colors In-Progress"*
-![alt text](https://s19.postimg.org/byxfecqrn/moodboardcolorslistcreate.gif "Create mood board colors list")
 2. Individually create a card with all of the hex colors of your mood board color palette (will need to get the color from your moodboard color swatches)
 3. Tag the card with your name color
+![alt text](https://s19.postimg.org/83u1bqxb7/moodboardcolorsaddtotrello.gif "mood board colors ad to trello")
 4. Screenshot and add to OneNote Week 10 clock-in*
 
 *don't forget to also add the clock-in, day, and date
