@@ -2,7 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-@media screen and (min-width: 64em).project-name {
-  5rem;
-  color:#eedd44;
+@media screen and (min-width: 64em)
+  .project-name {
+  font-size: 5rem;
+  color: #eedd44;
 }
