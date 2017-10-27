@@ -1,4 +1,7 @@
 # Clock-ins :: Week 11 #
+Don't forget that your clock-ins must include the day, date, clock-in requirement (what the clock-in is for that day), and the actual clock-in (answer to the question, screenshot of the typing exercize, etc.)
+
+
 ## Friday ##
 #### TYPING ####
 Log in to **[typing.com](https://www.typing.com)** and complete ONLY the “V,H & M keys”  level - Take a screenshot when you finish and upload it to your “Week 11” OneNote page 
