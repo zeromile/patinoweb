@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-h1.project-name {
-  font-size: 100 px;
+@media screen and (min-width: 64em)
+.project-name {
+  5 rem;
 }
