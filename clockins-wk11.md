@@ -1,7 +1,7 @@
 # Clock-ins :: Week 11 #
 ## Friday ##
 ### TYPING ###
-Log in to typing.com and complete ONLY the “V,H & M keys”  level - Take a screenshot when you finish and upload it to your “Week 11” OneNote page 
+Log in to **[typing.com](https://www.typing.com)** and complete ONLY the “V,H & M keys”  level - Take a screenshot when you finish and upload it to your “Week 11” OneNote page 
 
 
 ## Thursday ##
