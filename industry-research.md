@@ -26,7 +26,16 @@ After the industry questions in the OneNote “Industry Research Project” ther
 
 ## Keyword search ##
 
-- Look through your content to find repeating phrases or descriptive words. Write these out on the whiteboards with your teammates. Find at least 5 each. 
-- Discuss and ideate words or phrases that describe the personality of your client’s industry. Write these on the whiteboards. Find at least 5.
-- Discuss and ideate words or phrases that describe the physical aspects of your client’s industry. Write these on the whiteboards. Find at least 5.
+1. Look through your content to find repeating phrases or descriptive words. Write these out on the whiteboards with your teammates. Find at least 5 each. 
+2. Discuss and ideate words or phrases that describe the personality of your client’s industry. Write these on the whiteboards. Find at least 5.
+3. Discuss and ideate words or phrases that describe the physical aspects of your client’s industry. Write these on the whiteboards. Find at least 5.
+4. Add a new heading called “Keyword search” at the end of your “Industry Research Project” page in OneNote  
+5. Compile all your team's keywords and phrases under that section
+
+
+## Image search ##
+1. Divide up the keywords and phrases among your teammates
+2. Search the approved stock photo sites based on your keywords and phrases...download the ones that you feel fit best
+3. Find at least 2 images for each keyword or phrase
+
 
