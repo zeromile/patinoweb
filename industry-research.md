@@ -8,8 +8,6 @@ You are going to research and write about your client’s industry. The purpose 
 
 Entrepreneurial skills used: Interviewing, writing, and thinking visually 
 
-patinoweb/images/OMWEB-wk15-industry-research_project-flow.png
-
 ![alt text](images/OMWEB-wk15-industry-research_project-flow.png "Industry Research Project flow")
 
 
