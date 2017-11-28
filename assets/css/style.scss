@@ -7,3 +7,22 @@
   font-size: 5rem;
   color: #eedd44;
 }
+
+.Mycolumn {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.Myrow:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media (max-width: 600px) {
+    .Mycolumn {
+        width: 100%;
+    }
+}
+
