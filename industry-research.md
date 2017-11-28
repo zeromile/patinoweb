@@ -26,7 +26,7 @@ After the industry questions in the OneNote “Industry Research Project” ther
 
 ## Keyword search ##
 
-- Look through your content to find repeating phrases or descriptive words. Write these out on the whiteboards with your teammates. 
-- Discuss and ideate 5 additional words or phrases that describe the personality of your client’s industry. Write these on the whiteboards also.
-
+- Look through your content to find repeating phrases or descriptive words. Write these out on the whiteboards with your teammates. Find at least 5 each. 
+- Discuss and ideate words or phrases that describe the personality of your client’s industry. Write these on the whiteboards. Find at least 5.
+- Discuss and ideate words or phrases that describe the physical aspects of your client’s industry. Write these on the whiteboards. Find at least 5.
 
