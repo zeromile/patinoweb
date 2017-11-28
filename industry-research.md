@@ -41,18 +41,23 @@ After the industry questions in the OneNote “Industry Research Project” ther
 - Search the approved stock photo sites based on your keywords and phrases...download the ones that you feel fit best
 - Find at least 2 images for each keyword or phrase
 
-
+## Create the Moodboard / Web page ##
 <section class="Myrow">
   <div class="Mycolumn">
-
-  <h2>Heading 1</h2>
-  <p>lorem ipsum jkhkjhdkjhdk kjh djkh d</p>
-
+  
+  <h3>Moodboard Creators</h3>
+  <ul>
+    <li>Create a moodboard based on your images</li>
+  </ul>
+  
   </div>
   
   <div class="Mycolumn">
-  <h2>Heading 2</h2>
-  <p>Lorem ipsum, blah blah blah, yada yada yada.</p>
-
+  
+  <h3>Web Page Creators</h3>
+  <ul>
+    <li>Sign in to your cloud9 account (http://c9.io)  and create a page in Word press</li>
+  </ul>
+  
   </div>
 </section>
