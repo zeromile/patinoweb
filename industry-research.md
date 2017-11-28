@@ -35,9 +35,9 @@ After the industry questions in the OneNote “Industry Research Project” ther
 
 ## Image search ##
 - Divide up the keywords and phrases among your teammates
--- Decide who will be creating moodboards and who will be creating the Web page
--- The moodboard creators will search using the Repeating Phrases, Descriptive and Personality keywords
--- The Web page creators will search using the Physical Aspect keywords
+- - Decide who will be creating moodboards and who will be creating the Web page
+- - The moodboard creators will search using the Repeating Phrases, Descriptive and Personality keywords
+- - The Web page creators will search using the Physical Aspect keywords
 - Search the approved stock photo sites based on your keywords and phrases...download the ones that you feel fit best
 - Find at least 2 images for each keyword or phrase
 
