@@ -22,5 +22,11 @@ Be sure to:
 ## Write about your industry ##
 Using the information you have gathered in your research, compile your answers into informative conclusions. Your goal is to write a complete profile of your client’s industry. 
 
-After the industry questions in the OneNote “Industry Research Project” there are a series of headlines. Write content below each of these headline that is related to that headline. Your content should come from your research.
+After the industry questions in the OneNote “Industry Research Project” there are a series of headlines. Write content below each of these headlines that is related to that headline. Your content should come from your research.
+
+## Keyword search ##
+
+- Look through your content to find repeating phrases or descriptive words. Write these out on the whiteboards with your teammates. 
+- Discuss and ideate 5 additional words or phrases that describe the personality of your client’s industry. Write these on the whiteboards also.
+
 
