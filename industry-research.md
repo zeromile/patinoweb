@@ -45,13 +45,14 @@ After the industry questions in the OneNote “Industry Research Project” ther
 <section class="Myrow">
   <div class="Mycolumn">
 
-  # Heading 1 #
+  <h2>Heading 1</h2>
+  <p>lorem ipsum jkhkjhdkjhdk kjh djkh d</p>
 
   </div>
   
   <div class="Mycolumn">
-  
-  Lorem ipsum, blah blah blah, yada yada yada.
+  <h2>Heading 2</h2>
+  <p>Lorem ipsum, blah blah blah, yada yada yada.</p>
 
   </div>
 </section>
