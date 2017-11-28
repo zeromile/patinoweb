@@ -10,4 +10,4 @@ Entrepreneurial skills used: Interviewing, writing, and thinking visually
 
 patinoweb/images/OMWEB-wk15-industry-research_project-flow.png
 
-!(patinoweb/images/OMWEB-wk15-industry-research_project-flow.png)
+![Industry Research Project flow](images/OMWEB-wk15-industry-research_project-flow.png)
