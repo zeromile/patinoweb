@@ -42,4 +42,16 @@ After the industry questions in the OneNote “Industry Research Project” ther
 - Find at least 2 images for each keyword or phrase
 
 
+<section class="Myrow">
+  <div class="Mycolumn">
 
+  # Heading 1 #
+
+  </div>
+  
+  <div class="Mycolumn">
+  
+  Lorem ipsum, blah blah blah, yada yada yada.
+
+  </div>
+</section>
