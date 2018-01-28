@@ -2,15 +2,15 @@
   href: "/"
   
 - title: "Industry Research"
-  href: "/industry-research/"
+  href: "/industry-research"
   
 - title: "CSS Reference"
-  href: "/css-reference/"
+  href: "/css-reference"
 
 - title: "Clock-Ins"
-  href: "clockins-wk11"
+  href: "/clockins-wk11"
   subcategories:
     - subtitle: "Week 10"
-      subhref: "/clockins-wk10/"
+      subhref: "/clockins-wk10"
     - subtitle: "Week 11"
-      subhref: "/clockins-wk11/"
+      subhref: "/clockins-wk11"
