@@ -24,12 +24,12 @@
         {% for nav in site.data.nav %}
           {% if nav.subcategories != null %}
             <div class="dropdown">
-              <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a>
-              <ul>
+              <button class="dropbtn"><a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a></button>
+              <div class="dropdown-content">
               {% for subcategory in nav.subcategories %}
-                <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                <a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
               {% endfor %}
-              </ul>
+              </div>
             </div>
           {% elsif nav.title == page.title %}
              <li class="active">
