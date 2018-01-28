@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Clock-ins, Week 10
 ---
 
