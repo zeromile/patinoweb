@@ -8,6 +8,7 @@
   href: "/css-reference/"
 
 - title: "Clock-Ins"
+  href: "/clockins/"
   subcategories:
     - subtitle: "Week 10"
       subhref: "clockins-wk10"
