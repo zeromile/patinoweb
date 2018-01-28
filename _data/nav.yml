@@ -1,2 +1,15 @@
 - title: "Home"
   href: "/"
+  
+- title: "Industry Research"
+  href: "/industry-research/"
+  
+- title: "CSS Reference"
+  href: "/css-reference/"
+
+- title: "Clock-Ins"
+  subcategories:
+    - subtitle: "Week 10"
+      subhref: "clockins-wk10"
+    - subtitle: "Week 11"
+      subhref: "clockins-wk11"
