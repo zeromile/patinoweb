@@ -1,3 +1,8 @@
+---
+layout: post
+title: Clock-ins, Week 10
+---
+
 # Clock-ins :: Week 10 #
 ## Thursday ##
 
